@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/caarlos0/env/v6 v6.3.0
-	github.com/cenkalti/backoff v2.2.1+incompatible
+	github.com/cenkalti/backoff/v4 v4.0.2
 	github.com/go-playground/validator v9.31.0+incompatible
 	github.com/go-playground/validator/v10 v10.3.0
 	github.com/gocarina/gocsv v0.0.0-20200330101823-46266ca37bd3
